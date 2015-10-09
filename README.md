@@ -6,6 +6,9 @@ Node App Storage sessions with redis.
 
   `npm test`
   
+## Issue Labels
+Inspired on [this](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/) .
+  
   
 ## Contributing
 
