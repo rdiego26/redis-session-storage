@@ -1,0 +1,35 @@
+{
+  "name": "redis-session-storage",
+  "version": "0.0.1",
+  "description": "Storage session with redis and node example .",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdiego26/redis-session-storage"
+  },
+  "keywords": [
+    "redis",
+    "session",
+    "session",
+    "session",
+    "storage"
+  ],
+  "author": "Diego Ramos <rdiego26@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdiego26/redis-session-storage/issues"
+  },
+  "homepage": "https://github.com/rdiego26/redis-session-storage",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "redis": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "supertest": "^1.1.0"
+  }
+}
