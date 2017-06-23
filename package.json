@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/rdiego26/redis-session-storage",
   "dependencies": {
-    "body-parser": "^1.14.1",
-    "express": "^4.13.3",
-    "redis": "^2.1.0"
+    "body-parser": "1.14.1",
+    "express": "4.13.3",
+    "redis": "2.1.0"
   },
   "devDependencies": {
-    "mocha": "^2.3.3",
-    "supertest": "^1.1.0"
+    "mocha": "3.4.2",
+    "supertest": "3.0.0"
   }
 }
