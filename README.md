@@ -1,6 +1,8 @@
 # redis-session-storage
 Node App Storage sessions with redis.
 
+[![Known Vulnerabilities](https://snyk.io/test/github/rdiego26/redis-session-storage/badge.svg)](https://snyk.io/test/github/rdiego26/redis-session-storage)
+[![Dependencies](https://david-dm.org/rdiego26/redis-session-storage.svg)](https://david-dm.org/rdiego26/redis-session-storage.svg)
 
 ## Tests
 
