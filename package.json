@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/rdiego26/redis-session-storage",
   "dependencies": {
-    "body-parser": "1.14.1",
-    "express": "4.13.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "redis": "2.1.0"
   },
   "devDependencies": {
